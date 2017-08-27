@@ -79,22 +79,22 @@ def get_data_docx(document):
 
 # Teste PPTX
 
-# In[14]:
+# In[1]:
 
-file_path = 'relatorios/' + listdir('relatorios/')[2]
+'''file_path = 'relatorios/' + listdir('relatorios/')[2]
 dados = get_data_pptx(file_path)
 
-dados
+dados'''
 
 
-# In[9]:
+# In[2]:
 
 '''listdir('relatorios/')[2]'''
 
 
 # Teste DOCX
 
-# In[15]:
+# In[3]:
 
 '''
 file_path = 'relatorios/' + listdir('relatorios/')[5]
